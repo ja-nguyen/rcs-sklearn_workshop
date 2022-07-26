@@ -16,8 +16,18 @@ conda create -n sklearn_workshop python=3.7 pandas scipy matplotlib seaborn scik
 
 It's fine to ignore this if you already have the packages above and you don't have any issue importing them in a Jupyter Notebook. There may be issues if your Python version is 3.10, which I think is the newest at this time.  
 
+If you plan to work on Google Colab, please ignore this part.
 
+## Accessing Files
+### Downloading this entire directory
+Click on the green Code button and choose Download ZIP. Unzip the folder. Change to sklearn_workshop in the drop down menu next to "Applications on"  and launch Jupyter Notebook/Lab and navigate to the folder you downloaded. Start with [placeholder].
 
+### Links to the notebooks on Google Colab:
+[placeholder]
+ 
 
+## Resources
+
+## Cited Works
 
 
