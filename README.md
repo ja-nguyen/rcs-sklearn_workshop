@@ -8,7 +8,7 @@ Prerequisites: basic Python knowledge at the level of the Python Fundamentals bo
 ## Preworkshop Setup
 Please have Anaconda installed as we will use Jupyter Notebook/Lab. 
 
-It is also a good practice to create a new environment to avoid any issue with dependencies. Make sure to launch Jupyter Notebook/Lab from this environment. To create a new environment named sklearn_workshop:
+It is also a good practice to create a new environment to avoid any issue with dependencies. Make sure to launch Jupyter Notebook/Lab from this environment. To create a new environment named sklearn_workshop, from your terminal:
 
 ```console
 conda create -n sklearn_workshop python=3.7 pandas scipy matplotlib seaborn scikit-learn=0.24
