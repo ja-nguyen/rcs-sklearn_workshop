@@ -23,11 +23,10 @@ If you plan to work on Google Colab, please ignore this part.
 Click on the green Code button and choose Download ZIP. Unzip the folder. Change to sklearn_workshop in the drop down menu next to "Applications on"  and launch Jupyter Notebook/Lab and navigate to the folder you downloaded. Start with [placeholder].
 
 ### Links to the notebooks on Google Colab:
-[placeholder]
  
 
-## Resources
 
 ## Cited Works
-
+scikit-learn Tutorials
+machinelearningmastery.com
 
