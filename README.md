@@ -39,6 +39,9 @@ https://colab.research.google.com/github/ja-nguyen/rcs-sklearn_workshop/blob/mai
 Decision tree
 https://colab.research.google.com/github/ja-nguyen/rcs-sklearn_workshop/blob/main/Day2_1_DecisionTree.ipynb
 
+Cross validation
+https://colab.research.google.com/github/ja-nguyen/rcs-sklearn_workshop/blob/main/Day2_2_CrossValidation.ipynb
+
 ## Cited Works
 scikit-learn Tutorials
 
