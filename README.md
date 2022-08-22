@@ -24,13 +24,19 @@ Click on the green Code button and choose Download ZIP. Unzip the folder. Change
 
 ### Links to the notebooks on Google Colab:
 #### Day 1:
+
 Preprocessing
 https://colab.research.google.com/github/ja-nguyen/rcs-sklearn_workshop/blob/main/Day1_1_Preprocessing.ipynb
+
 Supervised learning - Linear Regression
 https://colab.research.google.com/github/ja-nguyen/rcs-sklearn_workshop/blob/main/Day1_2_LinearRegression.ipynb
+
 Cross validation
 https://colab.research.google.com/github/ja-nguyen/rcs-sklearn_workshop/blob/main/Day1_3_CrossValidation.ipynb
+
 #### Day 2:
+
+Decision tree
 https://colab.research.google.com/github/ja-nguyen/rcs-sklearn_workshop/blob/main/Day2_1_DecisionTree.ipynb
 
 ## Cited Works
