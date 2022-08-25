@@ -46,7 +46,7 @@ https://colab.research.google.com/github/ja-nguyen/rcs-sklearn_workshop/blob/mai
 K-means clustering
 https://colab.research.google.com/github/ja-nguyen/rcs-sklearn_workshop/blob/main/Day3_1_KMeans.ipynb
 
-## Cited Works
+## Works Cited
 scikit-learn Tutorials
 
 wikipedia
