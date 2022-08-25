@@ -42,8 +42,14 @@ https://colab.research.google.com/github/ja-nguyen/rcs-sklearn_workshop/blob/mai
 Cross validation
 https://colab.research.google.com/github/ja-nguyen/rcs-sklearn_workshop/blob/main/Day2_2_CrossValidation.ipynb
 
+#### Day 3:
+K-means clustering
+https://colab.research.google.com/github/ja-nguyen/rcs-sklearn_workshop/blob/main/Day3_1_KMeans.ipynb
+
 ## Cited Works
 scikit-learn Tutorials
-
+wikipedia
 machinelearningmastery.com
-
+neptune.ai/blog 
+https://neptune.ai/blog/k-means-clustering#:~:text=K%2Dmeans%20is%20a%20centroid,of%20groups%20in%20the%20dataset.
+https://neptune.ai/blog/clustering-algorithms
